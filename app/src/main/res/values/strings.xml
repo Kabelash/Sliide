@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sliide</string>
+    <string name="action_refresh">Refresh</string>
+
+    <string name="img">News Image</string>
+    <string name="title">News Title</string>
+</resources>
