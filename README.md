@@ -1,5 +1,6 @@
 # Sliide
 I have used Kotlin and following libraries to do this task:
+
     Recyclerview Library - To implement the view
     implementation 'androidx.recyclerview:recyclerview:1.0.0'
     
